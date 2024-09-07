@@ -671,15 +671,15 @@
         "test": "npm run lint && jest --config package.json --runInBand --env=jsdom"
     },
     "dependencies": {
-        "@vscode/codicons": "0.0.22",
-        "bufferutil": "4.0.4",
-        "lit-html": "^2.2.2",
-        "puppeteer-core": "13.1.2",
-        "utf-8-validate": "5.0.6",
+        "@vscode/codicons": "0.0.36",
+        "bufferutil": "4.0.8",
+        "lit-html": "^3.2.0",
+        "puppeteer-core": "23.1.0",
+        "utf-8-validate": "6.0.4",
         "vscode-chrome-debug-core": "6.8.11",
-        "vscode-extension-telemetry": "0.4.1",
-        "vscode-webhint": "1.6.7",
-        "ws": "8.2.2",
+        "vscode-extension-telemetry": "0.4.5",
+        "vscode-webhint": "2.1.13",
+        "ws": "8.18.0",
         "xmlhttprequest": "1.8.0"
     },
     "devDependencies": {
